@@ -2,11 +2,12 @@
 ## Краткое описание
 04.05.2020 - 04.05.2020, было проведено дымовое тестирование для IntelliJ IDEA, и тестирование методом граничных значений для проекта Credit Card Number Validator.
 
-На тестирование затрачено: 2 часа
+На тестирование затрачено: 6 часов
 
 ### В результате тестирования выявлены следующие дефекты:
 
-https://github.com/OlgaDanilovaV/Java1.2/issues/1
+* https://github.com/OlgaDanilovaV/Java1.2/issues/1
+* https://github.com/OlgaDanilovaV/Java1.2/issues/2
 
 ## Описание процесса тестирования
 
